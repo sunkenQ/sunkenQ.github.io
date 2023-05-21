@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-CN'
+title = "Runa's Blog"
+theme = 'hugo-PaperMod'
